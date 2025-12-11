@@ -1,5 +1,5 @@
 // Find all links starting with the Meta Horizon URL
-const links = document.querySelectorAll('a[href^="https://horizon.meta.com/world/"]');
+const links = document.querySelectorAll('a[href^="https://horizon.meta.com/world/"], a[href^="https://horizon.meta.com/worlds/"]');
 
 links.forEach(link => {
     // Create a container for the QR code
