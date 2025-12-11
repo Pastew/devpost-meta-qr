@@ -4,20 +4,27 @@ A Chrome extension that automatically generates and displays a QR code for "Try 
 
 ## Installation
 
-1.  **Download via this specific link**:
-    [**Download devpost-meta-qr.zip**](https://github.com/Pastew/devpost-meta-qr/releases/download/v1/devpost-meta-qr.zip)
+## Installation
 
-2.  **Unzip** the downloaded file to a folder on your computer.
+### Chrome
 
-3.  Open Google Chrome and navigate to `chrome://extensions`.
+1.  **Download**: [**Download devpost-meta-qr-chrome.zip**](https://github.com/Pastew/devpost-meta-qr/releases/download/v1/devpost-meta-qr-chrome.zip)
+2.  **Unzip** the downloaded file to a folder.
+3.  Open Chrome and go to `chrome://extensions`.
+4.  Enable **Developer mode** (top-right).
+5.  Click **Load unpacked**.
+6.  Select the folder where you unzipped the files.
 
-4.  Enable **Developer mode** by toggling the switch in the top-right corner.
+### Firefox
 
-5.  Click the **Load unpacked** button that appears.
+1.  **Download**: [**Download devpost-meta-qr-firefox.zip**](https://github.com/Pastew/devpost-meta-qr/releases/download/v1/devpost-meta-qr-firefox.zip)
+2.  Open Firefox and go to `about:debugging`.
+3.  Click **This Firefox** on the left sidebar.
+4.  Click **Load Temporary Add-on...**.
+5.  Select the downloaded `.zip` file.
 
-6.  Select the folder where you unzipped the extension files.
-
-7.  Go to a Devpost page with a Meta Horizon link (e.g., [Don’t Wake My Pet: Draw the Symbols](https://devpost.com/software/signs-tqbvfs)) to see the QR code!
+### Usage
+Go to a Devpost page with a Meta Horizon link (e.g., [Don’t Wake My Pet: Draw the Symbols](https://devpost.com/software/signs-tqbvfs)) to see the QR code!
 
 ## License
 
