@@ -2,6 +2,8 @@
 
 A Chrome extension that automatically generates and displays a QR code for "Try it out" links (specifically Meta Horizon World links) on Devpost project pages. This makes it easy to open the links directly on your mobile device.
 
+![Devpost Meta Horizon QR Screenshot](screenshot-1.png)
+
 ## Installation
 
 ### Chrome
