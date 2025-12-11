@@ -4,8 +4,6 @@ A Chrome extension that automatically generates and displays a QR code for "Try 
 
 ## Installation
 
-## Installation
-
 ### Chrome
 
 1.  **Download**: [**Download devpost-meta-qr-chrome.zip**](https://github.com/Pastew/devpost-meta-qr/releases/download/v1/devpost-meta-qr-chrome.zip)
